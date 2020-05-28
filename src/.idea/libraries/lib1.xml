@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="jar://D:/java+安装包/apache-tomcat-8.5.40.zip!/apache-tomcat-8.5.40/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

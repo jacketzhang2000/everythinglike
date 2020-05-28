@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="apache-tomcat-7.0.69-windows-x64">
+    <CLASSES>
+      <root url="jar://D:/是java吖/apache-tomcat-7.0.69-windows-x64.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://D:/是java吖/apache-tomcat-7.0.69-windows-x64.zip!/apache-tomcat-7.0.69/webapps/docs/appdev/sample/src" />
+      <root url="jar://D:/是java吖/apache-tomcat-7.0.69-windows-x64.zip!/apache-tomcat-7.0.69/webapps/examples/WEB-INF/classes" />
+      <root url="jar://D:/是java吖/apache-tomcat-7.0.69-windows-x64.zip!/apache-tomcat-7.0.69/webapps/examples/WEB-INF/jsp/applet" />
+      <root url="jar://D:/是java吖/apache-tomcat-7.0.69-windows-x64.zip!/apache-tomcat-7.0.69/webapps/examples/jsp/plugin/applet" />
+    </SOURCES>
+  </library>
+</component>
